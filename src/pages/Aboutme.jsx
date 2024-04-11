@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/AboutMe.css';
+import '../styles/Aboutme.css';
 import myPhoto from '../Images/Picture-of-me.jpg'
 export default function AboutMe() {
   return (
