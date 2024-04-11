@@ -1,0 +1,23 @@
+.header {
+    background-color: #bd1818; /* Dark background color for the header */
+    color: #fff; /* White text color for the header */
+    padding: 10px 0; /* Padding for the header content */
+  }
+  
+  .navbar-brand {
+    font-size: 24px; /* Font size for the brand name */
+    font-weight: bold; /* Bold font weight for the brand name */
+  }
+  
+  .navbar-nav {
+    margin-left: auto; /* Move the Navbar links to the right */
+  }
+  
+  .nav-item {
+    margin-right: 10px; /* Margin between Navbar links */
+  }
+  
+  .nav-link {
+    color: #fff; /* White color for Navbar links */
+  }
+  

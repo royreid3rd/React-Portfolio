@@ -1,0 +1,20 @@
+.footer-container {
+    background-color: #333; /* Dark background color for the footer */
+    color: #fff; /* White text color for the footer */
+    padding: 20px 0; /* Padding for the footer content */
+    text-align: center; /* Center align content */
+  }
+  
+  .social-icons {
+    font-size: 24px; /* Font size for the icons */
+  }
+  
+  .icon {
+    margin: 0 10px; /* Margin between icons */
+    color: #fff; /* White color for icons */
+  }
+  
+  .icon:hover {
+    color: #007bff; /* Change color on hover */
+  }
+  

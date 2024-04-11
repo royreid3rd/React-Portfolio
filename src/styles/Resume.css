@@ -1,0 +1,22 @@
+.resume-container {
+    padding: 20px;
+  }
+  
+  .resume-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .resume-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .resume-list-item {
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .resume-list-item:last-child {
+    border-bottom: none; /* Remove border from the last item */
+  }
